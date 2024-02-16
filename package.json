@@ -1,0 +1,14 @@
+{
+  "name": "progressbarts",
+  "version": "1.0.0",
+  "description": "a progressbar via ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murad",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
